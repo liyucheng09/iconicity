@@ -1,0 +1,4 @@
+*.jpg
+.DS_Store
+*.tar.gz
+imagenet/__pycache__/classes.cpython-39.pyc
