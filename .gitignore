@@ -2,3 +2,11 @@
 .DS_Store
 *.tar.gz
 imagenet/__pycache__/classes.cpython-39.pyc
+*.log
+*.out
+*.error
+
+model_outputs/
+htcondor/
+*.zip
+.vscode/

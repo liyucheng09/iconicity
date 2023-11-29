@@ -1,0 +1,80 @@
+====================
+Llama-2-13B-chat_trott
+--------
+spearman: 0.3787126448593676
+spearman P-value: 0.0
+--------
+pearson: 0.38080550434020327
+pearson P-value: 0.0
+====================
+Llama-2-13B-chat_trott_with_examples
+--------
+spearman: 0.36754015887319613
+spearman P-value: 0.0
+--------
+pearson: 0.3664023551432665
+pearson P-value: 0.0
+====================
+Llama-2-70B-chat_trott
+--------
+spearman: 0.3038708803921738
+spearman P-value: 0.0
+--------
+pearson: 0.3315719905980635
+pearson P-value: 0.0
+====================
+Llama-2-70B-chat_trott_with_examples
+--------
+spearman: 0.3506272343608546
+spearman P-value: 0.0
+--------
+pearson: 0.32977001446952436
+pearson P-value: 0.0
+====================
+Llama-2-7B-chat_trott
+--------
+spearman: 0.0033253441062960462
+spearman P-value: 0.6860771625116142
+--------
+pearson: 0.00499742167113662
+pearson P-value: 0.5435709956888662
+====================
+Llama-2-7B-chat_trott_with_examples
+--------
+spearman: 0.030704041882740077
+spearman P-value: 0.0001893311244240512
+--------
+pearson: 0.03658786411252391
+pearson P-value: 8.642840808541996e-06
+====================
+flan-t5-base_trott
+--------
+spearman: -0.03484355292240184
+spearman P-value: 2.271413218019642e-05
+--------
+pearson: -0.037210033728776744
+pearson P-value: 6.059338094693603e-06
+====================
+flan-t5-base_trott_with_examples
+--------
+spearman: -0.0032156938979256804
+spearman P-value: 0.6959031869002106
+--------
+pearson: -0.00481931441883373
+pearson P-value: 0.5580279509983547
+====================
+flan-t5-xl_trott
+--------
+spearman: 9.291528395864624e-05
+spearman P-value: 0.9909892759982188
+--------
+pearson: -0.001832795114588801
+pearson P-value: 0.823714806567566
+====================
+flan-t5-xl_trott_with_examples
+--------
+spearman: 0.004243529565855591
+spearman P-value: 0.6060027732933808
+--------
+pearson: 0.0015809336744433368
+pearson P-value: 0.8476194316282188
